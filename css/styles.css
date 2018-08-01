@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: blue;
+}
+
+h2.intro {
+  color: brown;
+}
+
+p.intro {
+  font-family: cursive;
+}
+
+img.intro {
+  border-radius: 50%;
+}

@@ -6,14 +6,14 @@ h1 {
   color: blue;
 }
 
-h2.intro {
-  color: brown;
+img{
+  border-radius: 50%;
 }
 
-p.intro {
+.random{
+  color: brown;
   font-family: cursive;
 }
-
-img.intro {
-  border-radius: 50%;
+.notrandom{
+  color: green;
 }

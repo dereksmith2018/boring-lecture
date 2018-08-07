@@ -17,3 +17,10 @@ img{
 .notrandom{
   color: green;
 }
+.border {
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: orange;
+}
